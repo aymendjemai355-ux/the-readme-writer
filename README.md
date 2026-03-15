@@ -78,7 +78,6 @@ The skill covers **6 README types**, each with its own template and rules:
 - **Tone matching** — technical for devs, friendly for learners, results-focused for recruiters
 - **Power moves** — collapsible sections, code-style about sections, rainbow dividers, centered banners
 - **Common mistake prevention** — built-in checklist catches vague titles, missing licenses, raw URLs
-- **D.T NOVA brand support** — if you're Aymen, your brand guidelines are already baked in
 
 ---
 
@@ -89,7 +88,7 @@ The skill covers **6 README types**, each with its own template and rules:
 ```markdown
 <div align="center">
 
-# Hi, I'm Aymen 👋
+# Hi, I'm AB Informatique 👋
 
 **Data Analyst · AI Builder · Frontend Developer**
 
@@ -104,8 +103,8 @@ The skill covers **6 README types**, each with its own template and rules:
 \`\`\`python
 profile = {
     "role": ["Data Analyst", "AI Builder", "Frontend Dev"],
-    "building": "D.T NOVA",
-    "based_in": "Algeria 🇩🇿",
+    "building": "AB Informatique",
+    "based_in": "Earth 🌍",
 }
 \`\`\`
 ```
@@ -158,7 +157,7 @@ MIT — use it, fork it, build on it.
 ---
 
 <div align="center">
-  Made with ❤️ by <a href="https://github.com/your-username">D.T NOVA</a> · Algeria 🇩🇿
+  Made with ❤️ by <a href="https://github.com/your-username">AB Informatique</a>
   <br/>
   <i>Every repo deserves a front door worth opening.</i>
 </div>

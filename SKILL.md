@@ -371,10 +371,10 @@ Before outputting any README, silently check:
 ```markdown
 \`\`\`python
 me = {
-    "name": "Aymen",
+    "name": "AB Informatique",
     "role": "Data Analyst + AI Builder",
-    "location": "Algeria 🇩🇿",
-    "building": "D.T NOVA",
+    "location": "Earth 🌍",
+    "building": "AB Informatique",
 }
 \`\`\`
 ```
@@ -394,24 +394,7 @@ me = {
 
 ---
 
-## 7. D.T NOVA Brand Guidelines (for Aymen's repos)
-
-When writing READMEs for D.T NOVA branded repos:
-- Always include `**Built by [D.T NOVA](link)**` in the footer
-- Use dark-theme friendly screenshots when possible
-- Mention both Arabic and English support where applicable
-- Brand color accent: use red badges where available (`?color=red`)
-- Footer signature:
-```markdown
----
-<div align="center">
-  Made with ❤️ by <a href="https://github.com/username">D.T NOVA</a> · Algeria 🇩🇿
-</div>
-```
-
----
-
-## 8. Common Mistakes — Never Do These
+## 7. Common Mistakes — Never Do These
 
 | ❌ Bad | ✅ Good |
 |--------|---------|
