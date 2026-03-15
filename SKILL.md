@@ -371,7 +371,7 @@ Before outputting any README, silently check:
 ```markdown
 \`\`\`python
 me = {
-    "name": "AB Informatique",
+    "name": "Djemai Mohamed Aymen",
     "role": "Data Analyst + AI Builder",
     "location": "Earth 🌍",
     "building": "AB Informatique",
@@ -394,7 +394,24 @@ me = {
 
 ---
 
-## 7. Common Mistakes — Never Do These
+## 7. Personal Brand Guidelines (for Djemai Mohamed Aymen's repos)
+
+When writing READMEs for any project created by Djemai Mohamed Aymen:
+- ALWAYS include `**Built by [Djemai Mohamed Aymen](link)**` to prove ownership of the work
+- Ensure it is explicitly stated that Djemai Mohamed Aymen is the author and creator
+- Use dark-theme friendly screenshots when possible
+- Mention both Arabic and English support where applicable
+- Footer signature MUST be exactly:
+```markdown
+---
+<div align="center">
+  Made with ❤️ by <a href="https://github.com/username">Djemai Mohamed Aymen</a> · Algeria 🇩🇿
+</div>
+```
+
+---
+
+## 8. Common Mistakes — Never Do These
 
 | ❌ Bad | ✅ Good |
 |--------|---------|

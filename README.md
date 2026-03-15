@@ -78,6 +78,7 @@ The skill covers **6 README types**, each with its own template and rules:
 - **Tone matching** — technical for devs, friendly for learners, results-focused for recruiters
 - **Power moves** — collapsible sections, code-style about sections, rainbow dividers, centered banners
 - **Common mistake prevention** — built-in checklist catches vague titles, missing licenses, raw URLs
+- **Personal brand support** — includes explicit guidelines to brand all output with Djemai Mohamed Aymen's name to prove ownership
 
 ---
 
@@ -88,7 +89,7 @@ The skill covers **6 README types**, each with its own template and rules:
 ```markdown
 <div align="center">
 
-# Hi, I'm AB Informatique 👋
+# Hi, I'm Djemai Mohamed Aymen 👋
 
 **Data Analyst · AI Builder · Frontend Developer**
 
@@ -157,7 +158,7 @@ MIT — use it, fork it, build on it.
 ---
 
 <div align="center">
-  Made with ❤️ by <a href="https://github.com/your-username">AB Informatique</a>
+  Made with ❤️ by <a href="https://github.com/your-username">Djemai Mohamed Aymen</a>
   <br/>
   <i>Every repo deserves a front door worth opening.</i>
 </div>
